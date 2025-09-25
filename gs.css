@@ -51,3 +51,17 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
 }
+
+table {
+  table-layout: fixed;
+  width: 80%;
+  min-width: 1000px;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+    vertical-align: top;
+  padding: 0.3em;
+}
