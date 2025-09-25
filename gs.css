@@ -31,14 +31,23 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-.giuseppe:name {
+.giuseppe {
     color:cadetblue;
+    font-size: 11;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 
-.don:name {
+.don {
     color:chartreuse;
+    font-size: 11;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 
-.marco:name {
+.marco {
     color: blueviolet;
+    font-size: 11;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
 }
