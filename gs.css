@@ -1,0 +1,44 @@
+.speech {
+    color:black;
+    font-size: 11;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.song {
+    color:black;
+    font-size: 11;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.direction {
+    color: black;
+    font-size: 14;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:aliceblue;
+}
+
+.direction:hover {
+    color:darkred;
+    font-size: 14;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+
+.name {
+    color: black;
+    font-size: 14;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.giuseppe:name {
+    color:cadetblue;
+}
+
+.don:name {
+    color:chartreuse;
+}
+
+.marco:name {
+    color: blueviolet;
+}
